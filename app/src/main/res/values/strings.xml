@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OPPO База Данных</string>
+    <string name="title_home">Домой</string>
+    <string name="title_dashboard">Загрузить</string>
+    <string name="title_notifications">Уведомления</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
